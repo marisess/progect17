@@ -1,0 +1,40 @@
+body{
+    font-family: Helvetica;
+    margin: 0;
+}
+.img{
+    border-bottom-right-radius: 150px;
+}
+.main_box{
+    display: flex;
+    background-color: coral;
+    height: 535px;
+}
+.div_text{
+    margin-top: 80px;
+    margin-left: 80px;
+}
+.link{
+    color: white;
+    text-decoration: none;
+    background-color: black;
+    padding: 10px 20px;
+}
+.h1{
+    width: 400px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+.h2{
+    color: grey;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 20px;
+    width: 420px;
+    margin-bottom: 35px;
+}
+span{
+    color: red;
+}
